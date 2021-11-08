@@ -30,15 +30,15 @@ Bot Owner Only
 ABOUT = """
 ➥ Name :  Auto Filter V3
     
-➥ Creator : [Hyetelegram Bots](https://t.me/HyetelegramBots)
+➥ Creator : [telegram Bots](https://t.me/joinchat/FFkCfm4Ce_Q2NmNl)
 
 
 ➥ Language : Python3
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ Official File Channel : [Click Me](https://t.me/Allinonestorems)
-➥ Official Movie Group : [Click Me](https://t.me/Mdu_MoviezGrp)
+➥ Official File Channel : [Click Me](https://t.me/joinchat/FFkCfm4Ce_Q2NmNl)
+➥ Official Movie Group : [Click Me](https://t.me/joinchat/FFkCfm4Ce_Q2NmNl)
 
 
 """
